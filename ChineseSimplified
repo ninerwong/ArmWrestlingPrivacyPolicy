@@ -8,7 +8,10 @@ Niner Wong 将电子掰手腕应用程序构建为广告支持应用程序。 �
 为了获得更好的体验，在使用我们的服务时，我可能会要求您向我们提供某些个人身份信息。 我请求的信息将保留在您的设备上，我不会以任何方式收集。
 该应用程序确实使用第三方服务，这些服务可能会收集用于识别您身份的信息。
 链接到应用程序使用的第三方服务提供商的隐私政策
-Unity (https://unity.com/legal/privacy-policy)
+AdMob (https://support.google.com/admob/answer/6128543?hl=en)
+Google Analytics for Firebase (https://firebase.google.com/support/privacy)
+Firebase Crashlytics (https://firebase.google.com/support/privacy/)
+Unity (https://unity3d.com/legal/privacy-policy)
 Log
 我想通知您，每当您使用我的服务时，如果应用程序出现错误，我会（通过第三方产品）在您的手机上收集名为日志数据的数据和信息。 此日志数据可能包括您的设备互联网协议（“IP”）地址、设备名称、操作系统版本、使用我的服务时应用程序的配置、您使用服务的时间和日期以及其他统计信息等信息 .
 Cookie
